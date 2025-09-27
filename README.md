@@ -1,4 +1,5 @@
 # learn-cicd-starter (Notely)
+![Test Status](https://github.com/holgertkey/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 Holgert's version of Boot.dev's Notely app.
 
